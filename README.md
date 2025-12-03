@@ -23,4 +23,4 @@ Supports **custom wordlist**, **auto-generated wordlist folder**, beautiful **pr
 ```bash
 git clone https://github.com/ariyanopu/Zip-File-Cracker.git
 cd Zip-File-Cracker
-chmod +x zip.sh
+chmod +x zip-brute.sh
